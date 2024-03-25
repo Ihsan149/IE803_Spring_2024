@@ -1,4 +1,4 @@
-# End-to-End-Learning-for-Self-Driving-Cars
+# Self-Driving-Cars
 
 This code helps in getting the steering angle of self driving car. The inspiraion is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well End to End Learning for [Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA.
 
