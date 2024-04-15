@@ -1,0 +1,17 @@
+-------------------- To Run on Full Validation Data--------------------------------------------------------
+python test_models.py ucfcrime \
+    --weights=checkpoint/TSM_ucfcrime_RGB_resnet50_shift8_blockres_avg_segment8_e25/ckpt.best.pth.tar \
+    --test_segments=8 --test_crops=1 \
+    --batch_size=8
+    
+-------------------- By inputting a single video to model ------------------------------------------------------------    
+    
+python test3.py  --dataset ucfcrime --weights checkpoint/TSM_ucfcrime_RGB_resnet50_shift8_blockres_avg_segment8_e25/ckpt.best.pth.tar --video_file checkVideos/videoplayback.mp4 --rendered_output predictedVideos/predictionResults.mp4
+
+
+-------------------- To run realTimeInference --------------------------------------------------------------------------
+
+python realTimeInference.py -f [!!!!path to video for real time detection]
+
+
+
