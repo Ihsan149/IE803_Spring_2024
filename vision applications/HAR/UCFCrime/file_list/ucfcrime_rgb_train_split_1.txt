@@ -1,0 +1,12 @@
+UCFCrime/frames/10 1810 1
+UCFCrime/frames/12 1486 1
+UCFCrime/frames/14 2497 1
+UCFCrime/frames/16 2781 1
+UCFCrime/frames/2 3240 1
+UCFCrime/frames/4 1874 1
+UCFCrime/frames/13 2881 0
+UCFCrime/frames/15 1376 0
+UCFCrime/frames/3 1354 0
+UCFCrime/frames/5 1219 0
+UCFCrime/frames/7 986 0
+UCFCrime/frames/9 1908 0
